@@ -22,13 +22,13 @@ AI 기반 대형폐기물 간편 배출 서비스 **FurniBurni**앱은...
 
 ## Repository
 
-|                        | Repository                                                         |
-|------------------------|--------------------------------------------------------------------|
-| AI                     |                                                                    |
-| Frontend-Android       | https://github.com/AIVLE-School-Third-Big-Project/funibuni-android |
-| Frontend-Web           |                                                                    |
-| Backend-Web Server     |                                                                    |
-| Backend-Model Server   |                                                                    |
+| Job                   | Repository                                                                       |
+|-----------------------|----------------------------------------------------------------------------------|
+| AI                    | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-ai-modeling    |
+| Frontend: Android     | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-android     |
+| Frontend: Web         | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-be-webserver   |
+| Backend: Web Server   | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-be-webserver   |
+| Backend: Model Server | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-be-modelserver |
 
 
 ## 서비스 소개
@@ -46,5 +46,7 @@ AI 기반 대형폐기물 간편 배출 서비스 **FurniBurni**앱은...
 ## 기술 스택
 
 - AI
-- Front-end
-- Back-end
+- Frontend: Android
+- Frontend: Web
+- Backend: Web Server
+- Backend: Model Server
