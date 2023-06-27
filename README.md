@@ -1,7 +1,6 @@
-# KT AIVLE AI 3rd Class Team 10 - FurniBurni App
+# KT AIVLE AI 3rd Class Team 10 - FuniBuni App
 
-<대표 캐릭터 이미지>
-<br>
+## 📢 팀 소개
 <table>
   <tbody>
     <tr>
@@ -16,19 +15,20 @@
   </tbody>
 </table>
 
-"우리팀을 잘 표현할 수 있는 목표나 철학? 등의 한 줄 문구 쓰기"
+#### 팀 소개 문구~
 
 
-## 프로젝트 소개
+## 💡 프로젝트 소개
 
-<앱 소개 썸네일 사진>
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/e67a6bd0-8d47-4c6f-89ac-eefee8103233" width="100px;" alt="퍼니버니"/>
+<br>
 
-- 주제: AI 기반 대형폐기물 간편 배출 모바일 앱
-- 앱명: FurniBurni
+### AI 기반 대형폐기물 간편 배출 서비스 어플 'Funi Buni'
 - 홈페이지
 - 앱스토어
 
-AI 기반 대형폐기물 간편 배출 서비스 **FurniBurni**앱은...
+우리는 대형폐기물을 버리기 위해서 구청에 배출을 신청하고 구청에서 발급해주는 스티커를 직접 구매해야 한다. <br>
+직접 구청을 방문해야
 
 
 ## Repository
