@@ -2,8 +2,19 @@
 
 <대표 캐릭터 이미지>
 <br>
-<팀원 소개 사진(증명사진)..ㅎㅎ>
-<br>
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt=""/><br /><sub><b>Android FE : 조성록</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt=""/><br /><sub><b>Android BE : 어남준</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt=""/><br /><sub><b>AI, Mlflow : 김세상</b></sub></a><br /></td>
+     <tr/>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt=""/><br /><sub><b>AI, WEB FE : 김경훈</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt=""/><br /><sub><b>AI, WEB FE : 김선하</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt=""/><br /><sub><b>AI, WEB FE : 김현우</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
 
 "우리팀을 잘 표현할 수 있는 목표나 철학? 등의 한 줄 문구 쓰기"
 
