@@ -69,8 +69,36 @@
 |      소분류 - 의자(3)    | 일반의자(noraml_chair), 장의자(long_chair), 회전의자(turning_chair) |
 |  소분류 - 자전거(3)  |  성인용(adult), 아동용2륜(kid_2), 아동용3륜(kid_34) |
 
- 
+#### <Service Flow>
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/60fd4443-566a-4445-9392-83e513192f4c" width="700px;"/>
 
+#### <3-Tier>
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/21b9f842-6703-4d84-ba34-6599b25b897f" width="700px;"/>
+
+
+#### <데이터수집 및 전처리>
+AI-HUB, 공공데이터포털, 구글OPEN Images Dataset 약 40,000여 건의 데이터 학습
+11개의class와 3개의 소분류 선정
+<br>
+이미지 데이터가 부족한 class는 이미지 증강으로 해결
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/8a50a844-e565-4708-b5e0-f80fdab5f6df" width="700px;"/>
+
+
+<br>
+바운딩 박스가 POLYGON 형태인 경우 BOX 형태로 변경
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/96ff7aea-19a5-4516-9583-c0a9799b945e" width="700px;"/>
+
+
+## <모델 선정이유>
+약 4개의class와 약 400개의 이미지 데이터를 이용한 모델링학습에서 Yolov8n 이 가장 수치가 좋게 나왔습니다.
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/8f8d50ac-a453-4e93-ad78-078a00c7a2a0" width="700px;"/>
+
+전체 class와 이미지 데이터를 이용한 모델링 학습에서도 Yolov8n 이 가장 좋게 나왔습니다.
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/b650ebc0-a27d-4718-a804-9dacc52f647a" width="700px;"/>
+
+
+
+<br>
 #### <모델 결과>
 Yolov8n을 사용하여 만든 모델 결과입니다.<br>
 <img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/168ccc48-e8d4-4221-abf4-bf86da76bb68" width="200px;" alt="서랍장"/>
