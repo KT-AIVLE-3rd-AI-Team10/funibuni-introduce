@@ -69,20 +69,22 @@
 |      소분류 - 의자(3)    | 일반의자(noraml_chair), 장의자(long_chair), 회전의자(turning_chair) |
 |  소분류 - 자전거(3)  |  성인용(adult), 아동용2륜(kid_2), 아동용3륜(kid_34) |
 
-#### <Service Flow>
+### Service Flow
 
 <img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/89823516/9c78e1cf-c153-4618-90f0-76c2caf844b6" width="700px;"/>
 
-#### <3-Tier>
+### 3-Tier
 
 <img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/89823516/ec56d145-aaf5-4507-bfa0-719d6aaa3c9c" width="700px;"/>
 
-#### <ERD>
+<br/>
+
+### ERD
 
 <img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/89823516/43ea90f0-51e4-4ca9-a6ca-b8c3ae5b6e11" width="700px;"/>
 
 
-#### <데이터수집 및 전처리>
+### 데이터수집 및 전처리
 AI-HUB, 공공데이터포털, 구글OPEN Images Dataset 약 40,000여 건의 데이터 학습
 11개의class와 3개의 소분류 선정
 <br>
@@ -105,7 +107,9 @@ AI-HUB, 공공데이터포털, 구글OPEN Images Dataset 약 40,000여 건의 �
 
 
 <br>
-#### <모델 결과>
+
+### 모델 결과
+
 Yolov8n을 사용하여 만든 모델 결과입니다.<br>
 <img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/168ccc48-e8d4-4221-abf4-bf86da76bb68" width="200px;" alt="서랍장"/>
 <img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/a2baa9ee-dbc3-43f9-afac-d358736ef42f" width="200px;" alt="선풍기"/><br>
@@ -113,7 +117,7 @@ Yolov8n을 사용하여 만든 모델 결과입니다.<br>
 <img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/ec42a870-7db5-4cb7-81eb-66cb4a9abe0f" width="300px;" alt="자전거"/>
 <br>
 
-#### <실제 시연 영상 유튜브 링크>
+### 실제 시연 영상 유튜브 링크
 <br>
 
 <사진1>
