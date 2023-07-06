@@ -77,10 +77,10 @@
 |  소분류 - 자전거(3)  |  성인용(adult), 아동용2륜(kid_2), 아동용3륜(kid_34) |
 
 #### <Service Flow>
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/60fd4443-566a-4445-9392-83e513192f4c" width="700px;"/>
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/89823516/9c78e1cf-c153-4618-90f0-76c2caf844b6" width="700px;"/>
 
 #### <3-Tier>
-<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/21b9f842-6703-4d84-ba34-6599b25b897f" width="700px;"/>
+<img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/89823516/ec56d145-aaf5-4507-bfa0-719d6aaa3c9c" width="700px;"/>
 
 
 #### <데이터수집 및 전처리>
