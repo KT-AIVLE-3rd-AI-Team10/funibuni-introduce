@@ -3,7 +3,8 @@
 ## 📢 팀 소개
 <table>
   <tbody>
-    <tr>
+    <tr><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/e39a520f-08ea-4ccb-a882-b905662d544a" width="100px;/>
+
       <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/fb29af31-09aa-457d-aab2-24d2e437316a
 " width="100px;" alt="조성록"/><br /><sub><b>APP FE, DB : 조성록</b></sub></a><br /></td>
       <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/3a3be818-884a-4d0c-b6f1-1e65dd3a04af
