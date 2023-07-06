@@ -4,13 +4,19 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt="조성록"/><br /><sub><b>APP FE, DB : 조성록</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt="어남준"/><br /><sub><b>APP BE, DB : 어남준</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt="김세상"/><br /><sub><b>AI, MLOps, APP BE : 김세상</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/fb29af31-09aa-457d-aab2-24d2e437316a
+" width="100px;" alt="조성록"/><br /><sub><b>APP FE, DB : 조성록</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/3a3be818-884a-4d0c-b6f1-1e65dd3a04af
+" width="100px;" alt="어남준"/><br /><sub><b>APP BE, DB : 어남준</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/e0703a6c-0af4-4607-bbef-671b96e0848f
+" width="100px;" alt="김세상"/><br /><sub><b>AI, MLOps, APP BE : 김세상</b></sub></a><br /></td>
      <tr/>
-      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt="김경훈"/><br /><sub><b>AI, WEB FE : 김경훈</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt="김선하"/><br /><sub><b>AI, WEB FE : 김선하</b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108725/7a0c2209-fae1-4731-9337-7b58720e451c" width="100px;" alt="김현우"/><br /><sub><b>AI, WEB FE : 김현우</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/29625e71-2825-41c3-999e-e38ce96811cf
+" width="100px;" alt="김경훈"/><br /><sub><b>AI, WEB FE : 김경훈</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/515d91c0-c3fa-41e9-b0d4-0ffce2f980ce
+" width="100px;" alt="김선하"/><br /><sub><b>AI, WEB FE : 김선하</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10/assets/124108699/ba42d3c4-65ba-4e4f-87c8-a1d46f63b5a1
+" width="100px;" alt="김현우"/><br /><sub><b>AI, WEB FE : 김현우</b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
