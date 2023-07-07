@@ -47,7 +47,7 @@
 | AI: Modeling        | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-ai-modeling  |
 | AI: MLOps           | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-ai-mlops     |
 | Frontend: Android   | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-android   |
-| Frontend: Web       | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-be-webserver |
+| Frontend: Web       | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web       |
 | Backend: Web Server | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-be-webserver |
 
 
