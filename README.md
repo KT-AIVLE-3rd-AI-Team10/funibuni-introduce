@@ -42,13 +42,13 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
-| Job                 | Repository                                                                     |
-|---------------------|--------------------------------------------------------------------------------|
-| AI: Modeling        | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-ai-modeling  |
-| AI: MLOps           | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-ai-mlops     |
-| Frontend: Android   | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-android   |
-| Frontend: Web       | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-fe-web       |
-| Backend: Web Server | https://github.com/AIVLE-School-Third-Big-Project/aivle-ai-team10-be-webserver |
+| Job                 | Repository                                                       |
+|---------------------|------------------------------------------------------------------|
+| AI: Modeling        | https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-ai-modeling   |
+| AI: MLOps           | https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-ai-mlops      |
+| Frontend: Android   | https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-android    |
+| Frontend: Web       | https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-fe-web        |
+| Backend: Web Server | https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-be-webserver  |
 
 
 ## 🐇 서비스 소개
