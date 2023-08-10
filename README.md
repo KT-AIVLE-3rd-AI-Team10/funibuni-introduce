@@ -12,7 +12,7 @@
 
 ## 🐇 프로젝트 소개
 
-![image](images/github-funibuni-intro-download.png)
+[![image](images/github-funibuni-intro-download.png)](http://13.124.150.132/)
 
 <p align="center" style="margin: 0">⬆️ 위 이미지를 클릭하면 퍼니버니 홈페이지로 이동합니다 ⬆️</p><br>
 
